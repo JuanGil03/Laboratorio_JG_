@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="aplicaciones_JG/aplicaciones_JG.csproj" />
+  <Project Path="front_JG/front_JG.csproj" />
+  <Project Path="presentaciones_JG/presentaciones_JG.csproj" />
+  <Project Path="servicios_JG/servicios_JG.csproj" />
+</Solution>
